@@ -3,9 +3,9 @@
 # Hi there 👋
 
 
- - 🌻 Learning about Data Science
+ - 🌻 Learning about Web Development
  - 💜 Commented code
- - ⚡ Pronouns: She/her
+ - ⚡  Data Science
  
  
 
